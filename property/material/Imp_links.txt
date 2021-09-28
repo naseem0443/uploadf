@@ -1,0 +1,40 @@
+https://www.remax.in/
+
+http://wmmsols.in/crm/
+
+https://drmactive.com/tata-value-homes-noida-401103742
+
+https://app.sell.do/client/dashboard/settings
+
+https://happy-homes.in/city/Noida
+
+
+https://ncrguru.com/property.php?id=68
+
+https://ncrguru.com/crmportal/#
+
+db Schema:-
+----------
+https://www.vtiger.com/products/crm/docs/510/vtigerCRM_DataModel_5.2.1.pdf
+https://docs.microsoft.com/en-us/common-data-model/schema/core/applicationcommon/activity
+
+
+active/inactive toggle buttom
+-----------------------------
+http://harshitsphp.blogspot.com/2015/08/user-status-button-in-php-codeigniter.html
+https://docs.google.com/document/d/1_hYV1Rob99Hw7L3fyJ6ZQX_smFt9mmU5mZAFnrIiIkA/view?pli=1
+
+
+HelpDesk
+---------
+https://www.zendesk.com/pricing/#everyone
+
+ RERA number format for a single project
+-----------------------------------------------
+ where they have multiple RERA numbres for different towers within a society
+Runwal Gardens Phase 1 - P51700022699, Runwal Gardens Phase 2 Bldg no 13-17 - P51700025677,
+Runwal Gardens Phase 2 Bldg no 18-23 - P51700024154, 
+Runwal Gardens Phase 3 Bldg no 24­-26 - P51700026228, 
+Runwal Gardens Phase 3 Bldg no 27-28 - P51700026927, 
+Runwal Gardens Phase 3 Bldg no 29-30 - P51700028344 
+and is available on the website https://maharera.mahaonline.gov.in under registered projects.
